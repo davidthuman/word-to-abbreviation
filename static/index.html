@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Word to Abbreviation</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="w-full flex flex-col">
+        <!-- Header -->
+        <div class="h-32 bg-gray-200 rounded-b-md flex justify-center items-center">
+            <h1 class="text-5xl">Word to Abbreviation</h1>
+        </div>
+
+        <!-- Content -->
+         <div class="flex flex-col items-center p-10">
+            <h2 class="text-3xl pb-10">Give a Word, Get an Abbreviation!</h2>
+            <div class="flex gap-5">
+
+                <div class="flex flex-col gap-3">
+                    <label class="text-xl" for="word">Word</label>
+                    <input class="border-2 border-black w-44" type="text" id="word" name="word">
+                </div>
+
+                <button 
+                    class="border-2 border-black self-end px-2 rounded-md"
+                    onclick="getAbbreviation()"
+                >Convert</button>
+
+                <div class="flex flex-col gap-3">
+                    <h3 class="text-xl">Abbreviation</h3>
+                    <div id="abbreviation">...</div>
+                </div>
+
+            </div>
+            
+         </div>
+
+    </div>
+    <script>
+        async function getAbbreviation() {
+
+            var word = document.getElementById("word").value;
+
+            const response = await fetch(
+                "/convert", 
+                {
+                    method: "POST",
+                    headers: {
+                        "Content-Type": "application/json"
+                    },
+                    body: JSON.stringify({
+                        word: word
+                    })
+                }
+            );
+
+            if (response.ok) {
+                const res_json = await response.json();
+                document.getElementById("abbreviation").innerText = res_json.abbreviation;
+            }
+            else {
+                document.getElementById("abbreviation").innerText = "Bad Request";
+            }
+
+        }
+    </script>
+</body>
+</html>
