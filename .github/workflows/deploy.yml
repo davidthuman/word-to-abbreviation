@@ -25,7 +25,7 @@ jobs:
 
       - name: Test SSH
         run: |
-          ssh -i ~/.ssh/private.key $SSH_USERNAME@SSH_HOST "ls -la";
+          ssh -i ~/.ssh/private.key $SSH_USERNAME@$SSH_HOST "ls -la";
         env:
           SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
           SSH_HOST: ${{ secrets.SSH_IP_ADDRESS }}
