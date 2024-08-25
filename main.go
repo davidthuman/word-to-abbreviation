@@ -14,6 +14,16 @@ type Abbreviation struct {
 	Abbreviation string `json:"abbreviation"`
 }
 
+func SimpleConvert(word string) string {
+	new := word[:3]
+	return new
+}
+
+func FirstEndConvert(word string) string {
+	new := string(word[0]) + string(word[len(word)-1])
+	return new
+}
+
 func index(w http.ResponseWriter, r *http.Request) {
 	http.ServeFile(w, r, "./static/index.html")
 }
@@ -27,7 +37,7 @@ func convert(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, err.Error(), http.StatusBadRequest)
 	}
 
-	abbreviation := Abbreviation{Abbreviation: "Not Implemented!"}
+	abbreviation := Abbreviation{Abbreviation: SimpleConvert(word.Word)}
 
 	json.NewEncoder(w).Encode(abbreviation)
 }

@@ -1,0 +1,2059 @@
+{
+    "abbreviations": [
+        {
+            "word": "January",
+            "abbr": "Jan.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "February",
+            "abbr": "Feb.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "March",
+            "abbr": "Mar.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "April",
+            "abbr": "Apr.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "May",
+            "abbr": "May",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "June",
+            "abbr": "June",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "July",
+            "abbr": "July",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "August",
+            "abbr": "Aug.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "September",
+            "abbr": "Sept.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "October",
+            "abbr": "Oct.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "November",
+            "abbr": "Nov.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "December",
+            "abbr": "Dec.",
+            "source": "https://www.law.cornell.edu/citation/4-600"
+        },
+        {
+            "word": "Alabama",
+            "abbr": "Ala.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Alaska",
+            "abbr": "Alaska",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Arizona",
+            "abbr": "Ariz.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Arkansas",
+            "abbr": "Ark.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "California",
+            "abbr": "Cal.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Colorado",
+            "abbr": "Colo.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Connecticut",
+            "abbr": "Conn.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Delaware",
+            "abbr": "Del.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "District of Columbia",
+            "abbr": "D.C.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Florida",
+            "abbr": "Fla.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Georgia",
+            "abbr": "Ga.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Hawaii",
+            "abbr": "Haw.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Idaho",
+            "abbr": "Idaho",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Illinois",
+            "abbr": "Ill.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Indiana",
+            "abbr": "Ind.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Iowa",
+            "abbr": "Iowa",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Kansas",
+            "abbr": "Kan.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Kentucky",
+            "abbr": "Ky.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Louisiana",
+            "abbr": "La.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Maine",
+            "abbr": "Me.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Maryland",
+            "abbr": "Md.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Massachusetts",
+            "abbr": "Mass.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Michigan",
+            "abbr": "Mich.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Minnesota",
+            "abbr": "Minn.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Mississippi",
+            "abbr": "Miss.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Missouri",
+            "abbr": "Mo.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Montana",
+            "abbr": "Mont.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Nebraska",
+            "abbr": "Neb.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Nevada",
+            "abbr": "Nev.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "New Hampshire",
+            "abbr": "N.H.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "New Jersey",
+            "abbr": "N.J.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "New Mexico",
+            "abbr": "N.M.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "New York",
+            "abbr": "N.Y.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "North Carolina",
+            "abbr": "N.C.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "North Dakota",
+            "abbr": "N.D.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Ohio",
+            "abbr": "Ohio",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Oklahoma",
+            "abbr": "Okla.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Oregon",
+            "abbr": "Or.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Pennsylvania",
+            "abbr": "Pa.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Rhode Island",
+            "abbr": "R.I.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "South Carolina",
+            "abbr": "S.C.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "South Dakota",
+            "abbr": "S.D.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Tennessee",
+            "abbr": "Tenn.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Texas",
+            "abbr": "Tex.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Utah",
+            "abbr": "Utah",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Vermont",
+            "abbr": "Vt.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Virginia",
+            "abbr": "Va.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Washington",
+            "abbr": "Wash.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "West Virginia",
+            "abbr": "W. Va.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Wisconsin",
+            "abbr": "Wis.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Wyoming",
+            "abbr": "Wyo.",
+            "source": "https://www.law.cornell.edu/citation/4-500"
+        },
+        {
+            "word": "Boston University Law Review",
+            "abbr": "B.U. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Buffalo Law Review",
+            "abbr": "Buff. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "California Law Review",
+            "abbr": "Cal. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Case Western Reserve Law Review",
+            "abbr": "Case W. Res. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Columbia Law Review",
+            "abbr": "Colum. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Cornell Law Review",
+            "abbr": "Cornell L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Duke Law Journal",
+            "abbr": "Duke L.J.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Fordham Law Review",
+            "abbr": "Fordham L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Georgetown Law Journal",
+            "abbr": "Geo. L.J.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "George Washington Law Review",
+            "abbr": "Geo. Wash. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Harvard Law Review",
+            "abbr": "Harv. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Howard Law Journal",
+            "abbr": "How. L.J.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Michigan Law Review",
+            "abbr": "Mich. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Minnesota Law Review",
+            "abbr": "Minn. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "New York University Law Review",
+            "abbr": "N.Y.U. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Ohio State Law Journal",
+            "abbr": "Ohio St. L.J.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Rutgers Law Review",
+            "abbr": "Rutgers L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Seton Hall Law Review",
+            "abbr": "Seton Hall L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Stanford Law Review",
+            "abbr": "Stan. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Supreme Court Review",
+            "abbr": "Sup. Ct. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Temple Law Review",
+            "abbr": "Temp. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Texas Law Review",
+            "abbr": "Tex. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "UCLA Law Review",
+            "abbr": "UCLA L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "University of Chicago Law Review",
+            "abbr": "U. Chi. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "University of Pennsylvania Law Review",
+            "abbr": "U. Pa. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Vanderbilt Law Review",
+            "abbr": "Vand. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Virginia Law Review",
+            "abbr": "Va. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Washington University Law Quarterly",
+            "abbr": "Wash. U. L.Q.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Wisconsin Law Review",
+            "abbr": "Wis. L. Rev.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "Yale Law Journal",
+            "abbr": "Yale L.J.",
+            "source": "https://www.law.cornell.edu/citation/4-700"
+        },
+        {
+            "word": "acquiescing",
+            "abbr": "acq.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "affirmed",
+            "abbr": "aff'd",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "affirming",
+            "abbr": "aff'g",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "certioari",
+            "abbr": "cert.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "jurisdiction",
+            "abbr": "juris.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "memorandum",
+            "abbr": "mem.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "nonacqiescing",
+            "abbr": "nonacq.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "probable",
+            "abbr": "prob.",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "revered",
+            "abbr": "rev'd",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "reversing",
+            "abbr": "rev'g",
+            "source": "https://www.law.cornell.edu/citation/4-200"
+        },
+        {
+            "word": "Academic",
+            "abbr": "Acad.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Academy",
+            "abbr": "Acad.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Account",
+            "abbr": "Acct.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Accountant",
+            "abbr": "Acct.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Accounting",
+            "abbr": "Acct.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Administrative",
+            "abbr": "Admin.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Administration",
+            "abbr": "Admin.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Administrator",
+            "abbr": "Adm'[r,x]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Administratrix",
+            "abbr": "Adm'[r,x]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Advertising",
+            "abbr": "Advert.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Agriculture",
+            "abbr": "Agric.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Agricultural",
+            "abbr": "Agric.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Alliance",
+            "abbr": "All.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Alternative",
+            "abbr": "Alt.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "America",
+            "abbr": "Am.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "American",
+            "abbr": "Am.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "And",
+            "abbr": "&",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "&",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "&",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "&",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Associate",
+            "abbr": "Assoc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Association",
+            "abbr": "Ass'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Ass'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Ass'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Ass'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Atlantic",
+            "abbr": "Atl.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Authority",
+            "abbr": "Auth.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Automobile",
+            "abbr": "Auto.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Automotive",
+            "abbr": "Auto.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Avenue",
+            "abbr": "Ave.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Bankruptcy",
+            "abbr": "Bankr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Board",
+            "abbr": "Bd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Broadcast",
+            "abbr": "Broad.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Broadcaster",
+            "abbr": "Broad.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Broadcasting",
+            "abbr": "Broad.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Brotherhood",
+            "abbr": "Bhd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Brothers",
+            "abbr": "Bros.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Bros.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Bros.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Bros.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Building",
+            "abbr": "Bldg.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Business",
+            "abbr": "Bus.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Capital",
+            "abbr": "Cap.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Casualty",
+            "abbr": "Cas.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Catholic",
+            "abbr": "Cath.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Center",
+            "abbr": "Ctr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Centre",
+            "abbr": "Ctr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Central",
+            "abbr": "Cent.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Chemical",
+            "abbr": "Chem.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Children",
+            "abbr": "Child.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Coalition",
+            "abbr": "Coal.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "College",
+            "abbr": "Coll.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Commerce",
+            "abbr": "Com.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Commercial",
+            "abbr": "Com.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Commission",
+            "abbr": "Comm'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Commissioner",
+            "abbr": "Comm'r",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Committee",
+            "abbr": "Comm.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Communication",
+            "abbr": "Commc'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Community",
+            "abbr": "Cmty.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Company",
+            "abbr": "Co.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Co.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Co.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Co.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Compensation",
+            "abbr": "Comp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Computer",
+            "abbr": "Comput.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Condominium",
+            "abbr": "Condo.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Congress",
+            "abbr": "Cong.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Congressional",
+            "abbr": "Cong.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Consolidated",
+            "abbr": "Consol.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Construction",
+            "abbr": "Constr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Continental",
+            "abbr": "Cont'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Contract",
+            "abbr": "Cont.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Contracting",
+            "abbr": "Cont.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Cooperative",
+            "abbr": "Coop.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Corporation",
+            "abbr": "Corp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Corp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Corp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Corp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Correction",
+            "abbr": "Corr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Correctional",
+            "abbr": "Corr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Corrections",
+            "abbr": "Corr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "County",
+            "abbr": "Cnty.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Defend",
+            "abbr": "Def.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Defender",
+            "abbr": "Def.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Defense",
+            "abbr": "Def.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Department",
+            "abbr": "Dep't",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Detention",
+            "abbr": "Det.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Development",
+            "abbr": "Dev.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Digital",
+            "abbr": "Dig.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Director",
+            "abbr": "Dir.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Distributor",
+            "abbr": "Distrib.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Distributing",
+            "abbr": "Distrib.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Distribution",
+            "abbr": "Distrib.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "District",
+            "abbr": "Dist.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Division",
+            "abbr": "Div.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Doctor",
+            "abbr": "Dr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "East",
+            "abbr": "E.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Eastern",
+            "abbr": "E.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Economic",
+            "abbr": "Econ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Economical",
+            "abbr": "Econ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Economics",
+            "abbr": "Econ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Economy",
+            "abbr": "Econ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Education",
+            "abbr": "Educ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Educational",
+            "abbr": "Educ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Electric",
+            "abbr": "Elec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Electrical",
+            "abbr": "Elec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Electricity",
+            "abbr": "Elec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Electronic",
+            "abbr": "Elec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Employ",
+            "abbr": "Emp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Employee",
+            "abbr": "Emp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Employer",
+            "abbr": "Emp'[r,t]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Employment",
+            "abbr": "Emp'[r,t]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Engineer",
+            "abbr": "Eng'r",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Engineering",
+            "abbr": "Eng'g",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Enterprise",
+            "abbr": "Enter.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Entertainment",
+            "abbr": "Entm't",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Environment",
+            "abbr": "Env't",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Environmental",
+            "abbr": "Env't",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Equality",
+            "abbr": "Equal.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Equipment",
+            "abbr": "Equip.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Examiner",
+            "abbr": "Exam'r",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Exchange",
+            "abbr": "Exch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Executive",
+            "abbr": "Exec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Executor",
+            "abbr": "Ex'[r,x]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Executrix",
+            "abbr": "Ex'[r,x]",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Exploration",
+            "abbr": "Expl.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Exploratory",
+            "abbr": "Expl.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Export",
+            "abbr": "Exp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Exportation",
+            "abbr": "Exp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Exporter",
+            "abbr": "Exp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Federal",
+            "abbr": "Fed.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Federation",
+            "abbr": "Fed'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Fidelity",
+            "abbr": "Fid.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Finance",
+            "abbr": "Fin.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Financial",
+            "abbr": "Fin.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Financing",
+            "abbr": "Fin.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Foundation",
+            "abbr": "Found.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "General",
+            "abbr": "Gen.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Global",
+            "abbr": "Glob.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Government",
+            "abbr": "Gov't",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Group",
+            "abbr": "Grp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Guaranty",
+            "abbr": "Guar.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Hospital",
+            "abbr": "Hosp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Housing",
+            "abbr": "Hous.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Human",
+            "abbr": "Hum.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Immigration",
+            "abbr": "Immigr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Import",
+            "abbr": "Imp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Importation",
+            "abbr": "Imp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Importer",
+            "abbr": "Imp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Incorporated",
+            "abbr": "Inc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Inc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Inc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Inc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Indemnity",
+            "abbr": "Indem.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Independence",
+            "abbr": "Indep.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Independent",
+            "abbr": "Indep.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Industry",
+            "abbr": "Indus.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Industries",
+            "abbr": "Indus.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Industrial",
+            "abbr": "Indus.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Information",
+            "abbr": "Info.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Injury",
+            "abbr": "Inj.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Institute",
+            "abbr": "Inst.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Institution",
+            "abbr": "Inst.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Insurance",
+            "abbr": "Ins.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Interest",
+            "abbr": "Int.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "International",
+            "abbr": "Int'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Investment",
+            "abbr": "Inv.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Investor",
+            "abbr": "Inv.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Labor",
+            "abbr": "Lab.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Laboratory",
+            "abbr": "Lab.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Liability",
+            "abbr": "Liab.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Limited",
+            "abbr": "Ltd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Ltd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "Ltd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "Ltd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Litigation",
+            "abbr": "Litig.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Machine",
+            "abbr": "Mach.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Machinery",
+            "abbr": "Mach.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Maintenance",
+            "abbr": "Maint.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Management",
+            "abbr": "Mgmt.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Manufacturer",
+            "abbr": "Mfr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Manufacturing",
+            "abbr": "Mfg.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Maritime",
+            "abbr": "Mar.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Market",
+            "abbr": "Mkt.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Marketing",
+            "abbr": "Mktg.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Mechanic",
+            "abbr": "Mech.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Mechanical",
+            "abbr": "Mech.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Medical",
+            "abbr": "Med.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Medicinal",
+            "abbr": "Med.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Medicine",
+            "abbr": "Med.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Memorial",
+            "abbr": "Mem'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Merchant",
+            "abbr": "Merch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Merchandise",
+            "abbr": "Merch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Merchandising",
+            "abbr": "Merch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Metropolitan",
+            "abbr": "Metro.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Mortgage",
+            "abbr": "Mortg.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Municipal",
+            "abbr": "Mun.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Mutual",
+            "abbr": "Mut.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "National",
+            "abbr": "Nat'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Natural",
+            "abbr": "Nat.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "North",
+            "abbr": "N.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Northern",
+            "abbr": "N.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Northeast",
+            "abbr": "Ne.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Northeastern",
+            "abbr": "Ne.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Northwest",
+            "abbr": "Nw.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Northwestern",
+            "abbr": "Nw.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Number",
+            "abbr": "No.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "No.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "*",
+            "abbr": "No.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "",
+            "abbr": "No.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Office",
+            "abbr": "Off.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Official",
+            "abbr": "Off.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Opinion",
+            "abbr": "Op.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Order",
+            "abbr": "Ord.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Organization",
+            "abbr": "Org.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Organizing",
+            "abbr": "Org.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Pacific",
+            "abbr": "Pac.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Parish",
+            "abbr": "Par.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Partnership",
+            "abbr": "P'ship",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Person",
+            "abbr": "Pers.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Personal",
+            "abbr": "Pers.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Personnel",
+            "abbr": "Pers.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Pharmaceutics",
+            "abbr": "Pharm.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Pharmaceuticals",
+            "abbr": "Pharm.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Political",
+            "abbr": "Pol.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Politics",
+            "abbr": "Pol.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Preserve",
+            "abbr": "Pres.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Preservation",
+            "abbr": "Pres.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Probate",
+            "abbr": "Prob.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Probation",
+            "abbr": "Prob.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Product",
+            "abbr": "Prod.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Production",
+            "abbr": "Prod.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Professional",
+            "abbr": "Prof'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Property",
+            "abbr": "Prop.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Protection",
+            "abbr": "Prot.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Public",
+            "abbr": "Pub.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Publication",
+            "abbr": "Publ'n",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Publishing",
+            "abbr": "Publ'g",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Railroad",
+            "abbr": "R.R.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Railway",
+            "abbr": "Ry.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Record",
+            "abbr": "Rec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Recording",
+            "abbr": "Rec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Refining",
+            "abbr": "Ref.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Regional",
+            "abbr": "Reg'l",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Register",
+            "abbr": "Reg.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Regulation",
+            "abbr": "Regul.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Regulator",
+            "abbr": "Regul.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Regulatory",
+            "abbr": "Regul.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Rehabilitation",
+            "abbr": "Rehab.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Rehabilitative",
+            "abbr": "Rehab.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Relation",
+            "abbr": "Rel.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Reproduction",
+            "abbr": "Reprod.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Reproductive",
+            "abbr": "Reprod.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Research",
+            "abbr": "Rsch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Resource",
+            "abbr": "Res.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Resources",
+            "abbr": "Res.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Restaurant",
+            "abbr": "Rest.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Retirement",
+            "abbr": "Ret.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Rights",
+            "abbr": "Rts.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Road",
+            "abbr": "Rd.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Savings",
+            "abbr": "Sav.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "School",
+            "abbr": "Sch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Schools",
+            "abbr": "Sch.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Science",
+            "abbr": "Sci.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Scientific",
+            "abbr": "Sci.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Secretary",
+            "abbr": "Sec'y",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Security",
+            "abbr": "Sec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Securities",
+            "abbr": "Sec.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Service",
+            "abbr": "Serv.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Shareholder",
+            "abbr": "S'holder",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Stockholder",
+            "abbr": "S'holder",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Social",
+            "abbr": "Soc.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Society",
+            "abbr": "Soc'y",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Solution",
+            "abbr": "Sol.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "South",
+            "abbr": "S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Southern",
+            "abbr": "S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Southeast",
+            "abbr": "Se.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Southeastern",
+            "abbr": "Se.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Southwest",
+            "abbr": "Sw.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Southwestern",
+            "abbr": "Sw.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Steamship",
+            "abbr": "S.S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Steamships",
+            "abbr": "S.S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Street",
+            "abbr": "St.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Subcommittee",
+            "abbr": "Subcomm.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Surety",
+            "abbr": "Sur.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "System",
+            "abbr": "Sys.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Systems",
+            "abbr": "Sys.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Teacher",
+            "abbr": "Tchr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Technical",
+            "abbr": "Tech.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Technological",
+            "abbr": "Tech.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Technology",
+            "abbr": "Tech.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Telecommunication",
+            "abbr": "Telecomm.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Telephone",
+            "abbr": "Tel.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Telegraph",
+            "abbr": "Tel.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Temporary",
+            "abbr": "Temp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Township",
+            "abbr": "Twp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Transcontinental",
+            "abbr": "Transcon.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Transport",
+            "abbr": "Transp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Transportation",
+            "abbr": "Transp.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Trustee",
+            "abbr": "Tr.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Uniform",
+            "abbr": "Unif.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "United",
+            "abbr": "U.S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "States",
+            "abbr": "U.S.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "University",
+            "abbr": "Univ.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Utility",
+            "abbr": "Util.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Village",
+            "abbr": "Vill.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "West",
+            "abbr": "W.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        },
+        {
+            "word": "Western",
+            "abbr": "W.",
+            "source": "https://www.law.cornell.edu/citation/4-100"
+        }
+    ]
+}
