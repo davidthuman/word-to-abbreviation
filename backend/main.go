@@ -15,8 +15,12 @@ type Abbreviation struct {
 }
 
 func SimpleConvert(word string) string {
-	new := word[:3]
-	return new
+
+	if len(word) > 3 {
+		return word[:3]
+	} else {
+		return word
+	}
 }
 
 func FirstEndConvert(word string) string {
@@ -29,6 +33,8 @@ func index(w http.ResponseWriter, r *http.Request) {
 }
 
 func convert(w http.ResponseWriter, r *http.Request) {
+
+	log.Println(r.URL)
 
 	var word Word
 
@@ -45,7 +51,7 @@ func convert(w http.ResponseWriter, r *http.Request) {
 func main() {
 
 	http.HandleFunc("/", index)
-	http.HandleFunc("/convert", convert)
+	http.HandleFunc("/api/v1/convert", convert)
 
 	log.Printf("Serving on port 3333 ...")
 	log.Fatal(http.ListenAndServe(":3333", nil))
